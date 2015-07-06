@@ -114,6 +114,7 @@ def l_fun(): #These will be needed in the future for a dictionary (a word like
         loadError = loadError + 1
         a = str ( loaderFunTick ) + " " + loadContent 
         loadErrorList.append( a )
+        fileOut = ""
         
     try:
         f.close()
