@@ -1,6 +1,6 @@
 import os, string
 #~~~~Logicless pre-alpha~~~~#
-
+debug = "0"
 whatsay = "Say something> "
 st1 = 0
 #0 = input as string #Default
